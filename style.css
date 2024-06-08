@@ -132,7 +132,7 @@ body{
     top: 72.5vh;
     left: 12.5vw;
 }
-.second-comp,.third-comp,.fourth-comp,.fifth-comp,.sixth-comp,.seventh-comp,.eighth-comp,.ninth-comp{
+.second-comp,.third-comp,.fourth-comp,.fifth-comp,.sixth-comp,.seventh-comp,.eighth-comp,.ninth-comp,.project-comp{
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -140,7 +140,7 @@ body{
     flex-direction: column;
     justify-content: space-evenly;
 }
-.title-achivement,.title-certificates,.title-skill,.title-usetool,.title-os,.title-script,.title-connect,.title-contact{
+.title-achivement,.title-certificates,.title-skill,.title-usetool,.title-os,.title-script,.title-connect,.title-contact,.title-project{
     background-color: orange;
     display: flex;
     align-items: center;
@@ -151,7 +151,7 @@ body{
     padding: 5px;
     font-size: 20px;
 }
-.achivement-container,.certificates-container,.tool-container,.os-container,.script-container,.connect-container,.contact-container{
+.achivement-container,.certificates-container,.tool-container,.os-container,.script-container,.connect-container,.contact-container,.project-container{
     overflow-x: auto;
     display: flex;
     align-items: center;
