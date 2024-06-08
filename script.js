@@ -20,6 +20,7 @@ var comp6=document.getElementById("sixth-comp");
 var comp7=document.getElementById("seventh-comp");
 var comp8=document.getElementById("eighth-comp");
 var comp9=document.getElementById("ninth-comp");
+var comp11=document.getElementById("project-comp");
 var comp10=document.getElementById("tenth-comp");
 
 
@@ -34,6 +35,7 @@ function retrive_details(){
     comp7.style="display:none !important;";
     comp8.style="display:none !important;";
     comp9.style="display:none !important;";
+    comp11.style="display:none !important;";
     comp10.style="display:flex !important;";
 }
 function retrive_home(){
@@ -46,5 +48,6 @@ function retrive_home(){
     comp7.style="display:flex !important;";
     comp8.style="display:flex !important;";
     comp9.style="display:flex !important;";
+    comp11.style="display:flex !important;";
     comp10.style="display:none !important;";
 }
